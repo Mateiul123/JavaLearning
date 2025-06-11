@@ -21,6 +21,13 @@ class Ex1 {
 
                 System.out.print("!");
 
+
+
+
+
+
+
+
             } catch (InputMismatchException e) {
 
                 System.out.print("?");
